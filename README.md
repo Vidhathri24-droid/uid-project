@@ -12,7 +12,7 @@ A personal portfolio website showcasing my projects, skills, and experience.
 - [Contact](#contact)
 
 ## Overview
-This is my personal [portfolio website](https://vidhathri24-droid.github.io/uid-project/project.html), built using [HTML](https://github.com/Vidhathri24-droid/uid-project/project.html) and [CSS](https://github.com/Vidhathri24-droid/uid-project//project.css), where I present my latest projects, learning experiences, and contact details.
+This is my personal [portfolio website](https://vidhathri24-droid.github.io/uid-project/project.html), built using [HTML](https://vidhathri24-droid.github.io/uid-project/project.html) and [CSS](https://vidhathri24-droid.github.io/uid-project/project.css), where I present my latest projects, learning experiences, and contact details.
 
 ## Features
 - Clean and modern design
