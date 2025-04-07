@@ -1,0 +1,79 @@
+body {
+    font-family: Arial, sans-serif;
+    color: white;
+    margin: 0;
+    padding: 0;
+    background-image: url('https://media4.giphy.com/media/OkVVUlG40FnuE/200.webp?cid=ecf05e47a0byckndm6ysf99uuwesxb97hl3vx127m7nnyidw&ep=v1_gifs_search&rid=200.webp&ct=g');
+    background-repeat: no-repeat;
+    background-position: fixed;
+    background-size: cover;
+}
+
+nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 15px 0;
+}
+
+nav ul {
+    display: flex; 
+    justify-content: center;
+    gap: 50px;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    padding: 10px 15px;
+    background-color: #B3446C;
+    border-radius: 5px;
+}
+
+
+nav a:hover {
+    background-color: lightgray;
+}
+
+header {
+    padding: 50px;
+}
+
+header img{
+    height: 140px;
+    float: center;
+    margin-right: 20px
+    padding: 10px;
+}
+
+section {
+    padding: 10px;
+    text-align: center;
+}
+
+.project img {
+    width: 300%;
+    max-width: 400px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+footer {
+    padding: 50px;
+    text-align: center;
+    color: white;
+}
+
+footer ul {
+    display: flex; 
+    justify-content: center;
+    gap: 30px;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
