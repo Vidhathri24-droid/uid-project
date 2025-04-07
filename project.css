@@ -29,7 +29,8 @@ nav ul {
 
 @media (max-width: 600px){
     nav ul{
-        gap: 20px;
+        flex-wrap: wrap;
+        justify-content: space-around;
     }
 }
 
