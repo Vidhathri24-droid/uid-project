@@ -12,7 +12,7 @@ A personal portfolio website showcasing my projects, skills, and experience.
 - [Contact](#contact)
 
 ## Overview
-This is my personal portfolio website, built using HTML and CSS, where I present my latest projects, learning experiences, and contact details.
+This is my personal [portfolio website](https://vidhathri24-droid.github.io/uid-project/project.html), built using HTML and CSS, where I present my latest projects, learning experiences, and contact details.
 
 ## Features
 - Clean and modern design
